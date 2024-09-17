@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charanpreet Singh</h1>
 <h3 align="center">Exploring new domains of AI and ML</h3>
 
-- 🌱 I’m currently learning **TensorFlow,PowerBI**
+- 🌱 I’m currently learning **TensorFlow**
 
 - 📫 How to reach me **ioncrade@gmail.com**
 
